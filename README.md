@@ -1,2 +1,2 @@
 # hello-git
-My first Git repository
+My second Git repository
